@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "rmedium";
+	src: url("../assets/fonts/Rubik-Medium.ttf");
+}
+
+@font-face {
+	font-family: "rregular";
+	src: url("../assets/fonts/Rubik-Regular.ttf");
+}
+
+@font-face {
+	font-family: "rbold";
+	src: url("../assets/fonts/Rubik-Bold.ttf");
+}
